@@ -4,8 +4,11 @@ Hello!!!! I am Ashwin Sarth
 
 
 def personal_details():
+
 	    name, age = "Ashwin Sarath", 22
+	    
 	    address = "Chengalpattu, Tamil Nadu, India"
+	    
 	    print("Name: {}\nAge: {}\nAddress: {}".format(name, age, address)
 
 
