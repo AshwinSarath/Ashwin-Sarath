@@ -3,15 +3,10 @@
 Hello!!!! I am Ashwin Sarth
 
 
-class Ashwin Sarath {
-
-   public static void main(String[] args) {
-    
-   System.out.println("Ashwin Sarth"); 
-        
-   }
-    
-}
+def personal_details():
+	    name, age = "Ashwin Sarath", 22
+	    address = "Chengalpattu, Tamil Nadu, India"
+	    print("Name: {}\nAge: {}\nAddress: {}".format(name, age, address)
 
 
 
