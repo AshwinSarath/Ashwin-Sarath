@@ -9,7 +9,7 @@ def personal_details():
 	    
 	    address = "Chengalpattu, Tamil Nadu, India"
 	    
-	    print("Name: {}\nAge: {}\nAddress: {}".format(name, age, address)
+	  
 
 
 
